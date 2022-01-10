@@ -4,9 +4,12 @@ Adventure Game
 Intro to Programming
 Module:  Python
 -------
+
 The project is a text based adventure gameusing python language.
 
 Main technologies-Python
+
+
 Project Requirements :
 ---------------------
 Descriptions are printed to the console for the player to see.
@@ -25,5 +28,4 @@ Clone project:
 git clone : https://github.com/divyapalusa/python-project.git
 
 
-Run project on terminal
-python3 game.py
+Run project on terminal- python3 game.py
